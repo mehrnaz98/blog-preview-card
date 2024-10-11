@@ -6,8 +6,8 @@ This is a solution to the [Blog preview card challenge on Frontend Mentor](https
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://github.com/mehrnaz98/blog-preview-card.git)
-- Live Site URL: [Add live site URL here](https://magical-croissant-b53d81.netlify.app/)
+- Solution URL: [solution](https://github.com/mehrnaz98/blog-preview-card.git)
+- Live Site URL: [View on Netlify](https://magical-croissant-b53d81.netlify.app/)
 
 ### Screenshot
 
