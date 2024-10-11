@@ -2,11 +2,7 @@
 export default {
   content: ["./index.html"],
   theme: {
-    extend: {
-      fontFamily: {
-        figtree: ["Figtree", "sans-serif"],
-      },
-    },
+    extend: {},
   },
   plugins: [],
 };
