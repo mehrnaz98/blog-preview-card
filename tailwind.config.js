@@ -2,8 +2,11 @@
 module.exports = {
   content: [],
   theme: {
-    extend: {},
+    extend: {
+      fontFamily: {
+        figtree: ["Figtree", "sans-serif"],
+      },
+    },
   },
   plugins: [],
-}
-
+};
